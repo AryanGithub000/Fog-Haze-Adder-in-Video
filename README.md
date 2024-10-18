@@ -23,17 +23,17 @@ You can install the required packages using pip:
 ```bash
 pip install flask opencv-python numpy Werkzeug
 
+```
 
-
-Getting Started
+## Getting Started
 Follow these steps to run the application locally:
 
 1. Clone the repository
-bash
-Copy code
+```bash
 git clone <repository-url>
 cd <repository-folder>
-2. Create the necessary folders
+```
+3. Create the necessary folders
 Ensure the following folders exist (they will store the uploaded and processed videos):
 
 uploads/: Stores the uploaded video files.
